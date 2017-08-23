@@ -1,0 +1,28 @@
+{
+  "name": "node_template_serveur",
+  "version": "0.0.1",
+  "description": "Node Template Serveur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrilleRieau/node_template_serveur.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Template",
+    "serveur"
+  ],
+  "author": "Cyrille Rieau <crieau@simplon.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyrilleRieau/node_template_serveur/issues"
+  },
+  "homepage": "https://github.com/CyrilleRieau/node_template_serveur#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mustache": "^2.3.0"
+  }
+}
